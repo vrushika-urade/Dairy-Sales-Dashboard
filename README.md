@@ -1,1 +1,2 @@
 # Dairy-Sales-Dashboard
+This project presents a comprehensive dairy sales analysis across India using Power BI. It offers interactive dashboards and visualizations to uncover valuable insights. It includes the state-wise breakdown of sales, performance evaluation of different dairy products such as milk, cheese,yogurt,etc and analysis of trends such as seasonal patterns and year-over-year growth. It also highlights profitability metrics, including revenue contributions and profit margins by region and product.
